@@ -17,18 +17,12 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
-## 🧰 Frameworks: 
-
-
 ## ⚙️ Ferramentas:
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode)<br><br>
+![My Skills](https://skillicons.dev/icons?i=github,vscode)<br><br>
 
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
-[![Linkedin: Ellen](https://img.shields.io/badge/-VitorEduardoRamilio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-eduardo-ramilio-18323a266/)](https://www.linkedin.com/in/vitor-eduardo-ramilio-18323a266/)
-
-
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
