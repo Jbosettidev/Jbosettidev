@@ -15,13 +15,11 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
 
-## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+
 ## ⚙️ Ferramentas:
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode)<br><br>
 
@@ -82,7 +80,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/mercur21/count.svg"
+    src="https://profile-counter.glitch.me/Bosettidev/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
