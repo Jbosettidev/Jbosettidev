@@ -11,7 +11,7 @@
 
 Here some programing languages and technologies who I'm accustumed to use:
 
-## 👨‍💻 Isos: 
+## 👨‍💻 ISOs: 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ## 👨‍💻 Programing languages: 
@@ -26,7 +26,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 ![Bosetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=radical)
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
 
 <p align="center">
