@@ -24,7 +24,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Bosetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=radical)
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
