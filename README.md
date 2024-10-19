@@ -25,54 +25,10 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-vitor.eduardo2135@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor.eduardo2135@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
 [![Linkedin: Ellen](https://img.shields.io/badge/-VitorEduardoRamilio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-eduardo-ramilio-18323a266/)](https://www.linkedin.com/in/vitor-eduardo-ramilio-18323a266/)
 
-### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <div>
-        <a href="https://github.com/mercur21">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mercur21&show_icons=true&theme=synthwave" width="440"/>
-</a>
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercur21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mercur21&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=mercur21&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
