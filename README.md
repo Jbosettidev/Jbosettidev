@@ -1,27 +1,26 @@
-## Olá, meu nome é João Vitor Bosetti !!!
+## Hello, my name is João Vitor Bosetti !!!
 
 
-## 💼 Perfil Profissional
+## 💼 Professional profile
 
-- 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando Ensino Médio com Técnico Integrado de Informática no IFSC XXE
+- 💻 Programming and I.T Student
+- 🌱 Passionate about Technology
+- 🎓 Attending High School with Integrated Computer Technician on IFSC XXE
 
-## 🚀 Habilidades
+## 🚀 Habilities
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+Here some programing languages and technologies who I'm accustumed to use:
 
-## 👨‍💻 Sistemas Operacionais: 
+## 👨‍💻 Isos: 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-## 👨‍💻 Linguagens: 
+## 👨‍💻 Programing languages: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
-## ⚙️ Ferramentas:
+## ⚙️ Tools:
 ![My Skills](https://skillicons.dev/icons?i=github,vscode)<br><br>
 
-## 📫 Contato
-
+## 📫 Contact:
 ![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
 
 ![Bosetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=radical)
