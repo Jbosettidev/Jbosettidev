@@ -4,12 +4,12 @@
 ## 💼 Professional profile
 
 - 💻 Programming and I.T Student
-- 🌱 Passionate about Technology
+- 🌱 Love Technology
 - 🎓 Attending High School with Integrated Computer Technician on IFSC XXE
 
 ## ⛩️ Hobies:
-- 🎵 Play music
-- 🏀 Play games
+- 🎵 Play piano
+- 🏀 Play E-games and basketball
 
 ## 🚀 Habilities
 
@@ -30,6 +30,8 @@ Here some programing languages and technologies who I'm accustumed to use:
 ## 📫 Contact:
 
 ![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
+
+## 🔝 Status:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div>
