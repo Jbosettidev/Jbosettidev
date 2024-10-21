@@ -47,7 +47,7 @@ Here some programing languages and technologies who I'm accustumed to use:
     </td>
     <td>
       
-<di align="center">
+<div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
 
