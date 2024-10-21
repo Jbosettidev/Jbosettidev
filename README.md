@@ -46,14 +46,12 @@ Here some programing languages and technologies who I'm accustumed to use:
       />
     </td>
     <td>
-      <br />
       
-      
-<div align="center">
+<di align="center/right">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
 
-<p align="center">
+<p align="center/right">
   <img
     src="https://profile-counter.glitch.me/Bosettidev/count.svg"
     alt="Número de visitantes no perfil"
