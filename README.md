@@ -40,18 +40,18 @@ Here some programing languages and technologies who I'm accustumed to use:
     </td>
     <td>
       <img
-        align="right"
+        align="center/right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosettidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
     <td>
       
-<di align="center/right">
+<di align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
 
-<p align="center/right">
+<p align="center">
   <img
     src="https://profile-counter.glitch.me/Bosettidev/count.svg"
     alt="Número de visitantes no perfil"
