@@ -46,17 +46,7 @@ Here some programing languages and technologies who I'm accustumed to use:
     </td>
     <td>
       <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Bosettidev&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-<br><br>
---- 
-
+---
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
