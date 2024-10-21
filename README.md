@@ -31,20 +31,16 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
 
-<div aling="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=radical" alt="Bosetti GitHub stats">
+  </div>
   
-  ![Bosetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=radical)
-  <tr>
-    <td>
-</a>
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosettidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosettidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
+  </div>
+</div>
+
       
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
