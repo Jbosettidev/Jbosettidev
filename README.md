@@ -31,7 +31,34 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
 
+
 ![Bosetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=radical)
+  <tr>
+    <td>
+      <div>
+        <a href="https://github.com/mercur21">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=synthwave" width="440"/>
+</a>
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosettidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Bosettidev&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
