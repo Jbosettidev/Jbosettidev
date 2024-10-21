@@ -35,9 +35,6 @@ Here some programing languages and technologies who I'm accustumed to use:
 ![Bosetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=radical)
   <tr>
     <td>
-      <div>
-        <a href="https://github.com/mercur21">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=synthwave" width="440"/>
 </a>
     </td>
     <td>
@@ -57,7 +54,7 @@ Here some programing languages and technologies who I'm accustumed to use:
     </td>
   </tr>
 </table>
-
+<br><br>
 --- 
 
 <div align="center">
