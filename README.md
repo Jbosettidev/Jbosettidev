@@ -35,14 +35,12 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div>
-    <div style="border: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=radical" alt="Bosetti GitHub stats" border:none>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosettidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
-    </div>
   </div>
 </div>
 
-      
+##
 <div align="center">
   <h3><b>📍 Profile Visitor Count 📍</b></h3>
 </div>
