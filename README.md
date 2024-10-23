@@ -8,7 +8,7 @@
 - 🎓 Attending High School with Integrated Computer Technician on IFSC XXE
 
 ## ⛩️ Hobies:
-- 🎵 Play piano
+- 🎵 Play the piano
 - 🏀 Play E-games and basketball
 
 ## 🚀 Habilities
