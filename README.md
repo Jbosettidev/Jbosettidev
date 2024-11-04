@@ -1,3 +1,7 @@
+<div>
+ <img align="center" style="margin-bottom:100px" width=100% src="het.jpg" />
+ &nbsp;&nbsp;&nbsp;
+</div>
 ## Hello, my name is João Vitor Bosetti !!!
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="300px"/>
