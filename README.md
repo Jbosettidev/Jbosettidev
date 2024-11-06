@@ -18,21 +18,18 @@
 Here some programing languages and technologies who I'm accustumed to use:
 
 ## 👨‍💻 ISOs: 
-<center>
  [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
-</center>
+
 ## 👨‍💻 Programing languages: 
-<center>
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
-</center>
+
 ## ⚙️ Tools:
-<center>
  ![My Skills](https://skillicons.dev/icons?i=github,vscode)
-</center>
+
 ## 📫 Contact:
-<center>
- ![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
-</center>
+<div align="center">
+ <a href"joao.b2009@gmail.com><006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com">
+</div>&nbsp;&nbsp;
 ## 🔝 Status:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
