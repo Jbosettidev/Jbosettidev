@@ -27,9 +27,9 @@ Here some programing languages and technologies who I'm accustumed to use:
  ![My Skills](https://skillicons.dev/icons?i=github,vscode)
 
 ## 📫 Contact:
-<div align="center">
- <a href"joao.b2009@gmail.com><006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com">
-</div>&nbsp;&nbsp;
+
+[Gmail](joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com")
+
 ## 🔝 Status:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
