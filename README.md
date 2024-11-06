@@ -34,7 +34,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 📫 Contact:
 
-![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-joao.b2009@aluno.ifsc.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@aluno.ifsc.edu.br)
 
 ## 🔝 Status:
 
