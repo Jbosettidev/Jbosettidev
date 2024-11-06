@@ -42,12 +42,11 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&theme=radical" alt="Bosetti GitHub stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosettidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
   </div>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bosettidev&bg_color=000000&color=FF0000&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bosettidev&bg_color=ffffff&color=FF0000&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 <div align="center">
