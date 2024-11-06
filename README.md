@@ -30,7 +30,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 📚 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,bash)](https://skillicons.dev)
 
 ## 📫 Contact:
 
