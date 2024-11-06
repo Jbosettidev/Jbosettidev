@@ -28,7 +28,7 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 📫 Contact:
 
-[Gmail](joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com")
+![Gmail](http://skillicons.dev/joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com")
 
 ## 🔝 Status:
 
