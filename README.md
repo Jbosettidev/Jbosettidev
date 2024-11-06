@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="300px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="300px"/>
 
- 💼 Professional profile
+ 💼 Professional profile:
 
 - 💻 Programming and I.T Student
 - 🌱 Love Technology
@@ -13,8 +13,7 @@
 - 🎵 Play the piano
 - 🏀 Play E-games and basketball
 
-🚀 Habilities
-
+🚀 Habilities:
 Here some programing languages and technologies who I'm accustumed to use:
 
 ## 👨‍💻 ISOs: 
