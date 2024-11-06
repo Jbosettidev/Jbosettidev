@@ -18,17 +18,20 @@
 Here some programing languages and technologies who I'm accustumed to use:
 
 ## 👨‍💻 ISOs: 
- [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 ## 👨‍💻 Programing languages: 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 ## ⚙️ Tools:
- ![My Skills](https://skillicons.dev/icons?i=github,vscode)
+
+![My Skills](https://skillicons.dev/icons?i=github,vscode)
 
 ## 📫 Contact:
 
-![Gmail](http://skillicons.dev/joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com")
+![Gmail Badge](https://img.shields.io/badge/-joao.b2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@gmail.com)
 
 ## 🔝 Status:
 
@@ -50,4 +53,3 @@ Here some programing languages and technologies who I'm accustumed to use:
     alt="Número de visitantes no perfil"
   />
 </p>
-
