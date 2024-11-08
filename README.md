@@ -60,3 +60,5 @@ Here some programing languages and technologies who I'm accustumed to use:
     alt="Número de visitantes no perfil"
   />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
