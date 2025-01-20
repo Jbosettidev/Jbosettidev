@@ -2,8 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b008b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+João+Vitor+Bosetti+!!!;I'm+15+years+old;I'm+from+Ponte+Serrada,+SC;I+study+I.T+and+web+development+at+IFSC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="300px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="300px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="280px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="280px"/>
 
  💼 Professional profile:
 
@@ -15,16 +15,13 @@
 - 💻 Programming
 - 🏀 Play E-games and basketball
 
-🚀 Habilities:
-Here some programing languages and technologies who I'm accustumed to use:
+## 👨‍💻 Main skills: 
 
-## 👨‍💻 ISOs: 
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,linux)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+## Other knowledge:
 
-## 👨‍💻 Programing languages: 
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,nodejs,windows)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 
@@ -32,19 +29,22 @@ Here some programing languages and technologies who I'm accustumed to use:
 
 ## 📚 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 ## 📫 Contact:
 
-![Gmail Badge](https://img.shields.io/badge/-joao.b2009@aluno.ifsc.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.b2009@aluno.ifsc.edu.br)
+<div align="center">  
+  <a href="https://www.instagram.com/bosetti_joao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/joao-vitor-bosetti/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div> 
 
 ## 🔝 Status:
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosettidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bosettidev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=10" />
-  </div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&count_private=true&hide_border=true&title_color=8b008b&icon_color=8b008b&text_color=c9d1d9&bg_color=0d1117" alt="My github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosettidev&layout=compact&hide_border=true&title_color=8b008b&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bosettidev&bg_color=000000&color=15e5a6&line=FF0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
