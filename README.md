@@ -17,19 +17,19 @@
 
 ## 👨‍💻 Main skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,linux,spring)](https://skillicons.dev)
 
 ## Other knowledge:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,nodejs,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,windows)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord)
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse)
 
 ## 📚 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,spring)](https://skillicons.dev)
 
 ## 📫 Contact:
 
