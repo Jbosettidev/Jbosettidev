@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Main skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,linux,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,linux,spring)](https://skillicons.dev)
 
 ## Other knowledge:
 
