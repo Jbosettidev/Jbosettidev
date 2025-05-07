@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b008b&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b008b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+João+Vitor+Bosetti+!!!;I'm+15+years+old;I'm+from+Ponte+Serrada,+SC;I+study+I.T+and+web+development+at+IFSC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b008b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+João+Vitor+Bosetti+!!!;I'm+16+years+old;I'm+from+Ponte+Serrada,+SC;I+study+I.T+and+mobile/web+development+at+IFSC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="280px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="280px"/>
@@ -8,7 +8,6 @@
  💼 Professional profile:
 
 - 💻 Programming and I.T Student
-- 🌱 Love Technology
 - 🎓 Attending High School with Integrated Computer Technician on IFSC XXE
 
 ⛩️ Hobies:
@@ -17,15 +16,15 @@
 
 ## 👨‍💻 Main skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=java,linux,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,linux,html,css)](https://skillicons.dev)
 
 ## Other knowledge:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,mysql,windows)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse)
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea)
 
 ## 📚 Learning:
 
