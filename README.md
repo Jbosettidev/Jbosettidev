@@ -40,11 +40,11 @@
 ## 🔝 Status:
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bosettidev&show_icons=true&count_private=true&hide_border=true&title_color=8b008b&icon_color=8b008b&text_color=c9d1d9&bg_color=0d1117" alt="My github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosettidev&layout=compact&hide_border=true&title_color=8b008b&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jbosettidev&show_icons=true&count_private=true&hide_border=true&title_color=8b008b&icon_color=8b008b&text_color=c9d1d9&bg_color=0d1117" alt="My github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbosettidev&layout=compact&hide_border=true&title_color=8b008b&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bosettidev&bg_color=000000&color=15e5a6&line=FF0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jbosettidev&bg_color=000000&color=15e5a6&line=FF0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 <div align="center">
@@ -53,7 +53,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/Bosettidev/count.svg"
+    src="https://profile-counter.glitch.me/Jbosettidev/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
