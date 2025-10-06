@@ -16,11 +16,11 @@
 
 ## 👨‍💻 Main skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=java,linux,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,linux)](https://skillicons.dev)
 
 ## Other knowledge:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,mysql,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,windows)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 
@@ -28,7 +28,7 @@
 
 ## 📚 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 ## 📫 Contact:
 
@@ -47,15 +47,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jbosettidev&bg_color=000000&color=15e5a6&line=FF0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
-<div align="center">
-  <h3><b>📍 Profile Visitor Count 📍</b></h3>
-</div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Jbosettidev/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b008b&height=120&section=footer"/>
