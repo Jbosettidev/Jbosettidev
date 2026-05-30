@@ -1,34 +1,55 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b008b&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b008b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+João+Vitor+Bosetti+!!!;I'm+17+years+old;I'm+from+Brazil+,+SC;I+study+I.T+at+IFSC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+### João Vitor Bosetti
 
- 💼 Professional profile:
+back-end developer · student @ IFSC
 
-- 💻 Programming and I.T Student
-- 🎓 Attending High School with Integrated Computer Technician on IFSC XXE
+---
 
-## 👨‍💻 Main skills: 
+📍 Brazil, SC &nbsp;·&nbsp; 17 years old &nbsp;·&nbsp; IFSC — Computer Technician
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,linux,redhat)](https://skillicons.dev)
+---
 
-## Other knowledge:
+**main stack**
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgresql,windows)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-3C3489?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3C3489?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-3C3489?style=flat-square&logo=springsecurity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3C3489?style=flat-square&logo=linux&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-3C3489?style=flat-square&logo=redhat&logoColor=white)
 
-## ⚙️ Tools:
+**also know**
 
-![My Skills](https://skillicons.dev/icons?i=idea,postman)
+![Python](https://img.shields.io/badge/Python-085041?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-085041?style=flat-square&logo=postgresql&logoColor=white)
 
-## 📚 Learning:
+**tooling**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,debian)](https://skillicons.dev)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-444441?style=flat-square&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-444441?style=flat-square&logo=postman&logoColor=white)
 
-## 📫 Contact:
+**currently learning**
 
-<div align="center">     
-  <a href="https://www.instagram.com/bosetti_joao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>   
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-bosetti-a30366337/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-  </div>
+![Spring](https://img.shields.io/badge/Spring_Ecosystem-0C447C?style=flat-square&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0C447C?style=flat-square&logo=docker&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-0C447C?style=flat-square&logo=debian&logoColor=white)
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b008b&height=120&section=footer"/>
+**contact**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C3489?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-bosetti-a30366337/)
+[![Instagram](https://img.shields.io/badge/Instagram-3C3489?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bosetti_joao/)
+
+---
+
+```bash
+joao@ifsc:~/projects$ ls skills/
+java/  spring/  linux/  postgresql/  docker/
+
+joao@ifsc:~/projects$ git log --oneline
+a3f9c12 learning spring security
+b81d004 first steps with docker
+c29a771 diving into postgresql
+d004ef8 hello world in java
+
+joao@ifsc:~/projects$ █
+```
